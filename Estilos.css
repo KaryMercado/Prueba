@@ -1,0 +1,37 @@
+
+	.Tamaño1{
+		width:150px;
+		height:200px;
+	}
+	.Logo{
+		width:150px;
+		height:200px;
+	}
+	table{
+		text-align: center;
+		background-color: #9ebcc7;
+		opacity: 0.95;
+		width:70%;
+	}
+	/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: hotpink;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+body{
+	background-image: ur1("Fondo de Sephora.jpg");
+}
